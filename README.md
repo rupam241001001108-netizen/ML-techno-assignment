@@ -1,6 +1,6 @@
 ## 📖 Coursework Description & Overview
 
-This repository serves as a comprehensive archive of practical coursework, laboratory assignments, and applied machine learning projects completed as part of the academic curriculum for **[Course Code]: [Course Name]** at **[University/College Name]**.
+This repository serves as a comprehensive archive of practical coursework, laboratory assignments, and applied machine learning projects completed as part of the academic curriculum for **[Machine learning]: [Rupam]** at **[Techno India University]**.
 
 The primary objective of this coursework is to bridge theoretical statistical foundations with hands-on computational implementations, moving from mathematical derivation to production-ready code.
 
